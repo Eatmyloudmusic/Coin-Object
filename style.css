@@ -1,0 +1,16 @@
+div.left {
+    margin: auto;
+  /* width: 50%; */
+    border: 3px solid green;
+    padding: 10px;
+    float: left;
+    text-align: left;
+    color: aqua;
+    background-color: cadetblue;
+  }
+
+  div.right {
+      float: right;
+      text-align: right;
+      border: 2.9px dotted chartreuse;
+  }
